@@ -97,5 +97,5 @@ Tu veux collaborer sur un script, proposer une idée ou juste discuter FiveM ?
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Swz&color=8b5cf6&style=flat-square&label=Visites+profil" />
   
-  *« Code propre ou code mort »* — Swz 🍁
+  *« Code propre ou code pas »* — Swz 🍁
 </div>
