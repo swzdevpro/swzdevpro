@@ -57,8 +57,8 @@ local Swz = {
 
 | Script | Description | Stack |
 |--------|-------------|-------|
-| [🎮 **Swz-RichP**](#) | Discord Rich Presence — affiche serveur, perso & job en live | `Lua` `JS` |
-| [🎯 **Swz-hs**](#) | Headshot 1 balle — détection précise, configurable par arme | `Lua` |
+| [🎮 **Swz-RichPresence**](#) | Discord Rich Presence — affiche serveur, perso & job en live | `Lua` `JS` |
+| [🎯 **Swz-1Tap**](#) | Headshot 1 balle — détection précise, configurable par arme | `Lua` |
 | [👮 **Swz-police job**](#) | Job Police complet — menottes, MDT, radar, armurerie, grades | `Lua` `HTML` |
 | [🚗 **Swz-cars pack**](#) | Pack voitures debadged — logos retirés, look stealth | `Assets` |
 | [⚙️ **Swz-fpsmenu**](#) | Menu NUI pour configurer les FPS côté client | `JS` `HTML` |
